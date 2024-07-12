@@ -1,0 +1,2 @@
+# trisquel
+trisquel scripts
